@@ -7,7 +7,13 @@ A GAP package name is FuisionA. If GAP is installed in /usr/local/gap4 then the 
 ```cmd
 FuisionA/
   doc/
+    |_ main.xml
+    |_ manual.bib
   lib/
+    |_ FusionAlgebra.g
+    |_ main.g
+    |_ tests.g
+    |_ zestings.g
   tst/
   CHANGELOG.md
   LICENSE
