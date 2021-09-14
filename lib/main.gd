@@ -1,0 +1,10 @@
+DeclareGlobalFunction( "Labels_A" );
+DeclareGlobalFunction( "TMatrix" );
+DeclareGlobalFunction( "ModularData_TipoA" );
+DeclareGlobalFunction( "IsModularData" );
+DeclareGlobalFunction( "Display_labels" );
+DeclareGlobalFunction( "FusionAlgebra" );
+DeclareGlobalFunction( "Display_Info_Zesting" );
+DeclareGlobalFunction( "Zesting_Modular_Data" );
+DeclareGlobalFunction( "Zesting_FusionAlgebra" );
+DeclareGlobalFunction( "FS_indicator" );

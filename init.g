@@ -1,0 +1,1 @@
+ReadPackage( "FusionA", "lib/main.gd" );
